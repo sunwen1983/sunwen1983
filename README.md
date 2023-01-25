@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sunwen1983
+- 👋 Hi, I’m Wen
 - 👀 I’m interested in all kinds of new technologies
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently working as a software engineer
 - 💞️ I’m looking to collaborate on Data Science & Software Engineer
 - 📫 How to reach me wen.sun1217@gmail.com
 
