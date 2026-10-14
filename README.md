@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Wen
-- 👀 I’m interested in all kinds of new technologies
-- 🌱 I’m currently working as a software engineer
-- 💞️ I’m looking to collaborate on Data Science & Software Engineer
-- 📫 How to reach me wen.sun1217@gmail.com
+# Hi, I'm Wen 👋
 
-<!---
-sunwen1983/sunwen1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior Software Engineer focused on backend systems and AI agent infrastructure.
+
+I build production-grade backend systems: distributed services, reliability engineering, and the infrastructure layer that makes AI agents work in the real world.
+
+## 🔭 What I'm building now
+
+**[mcpgate](https://github.com/sunwen1983/mcpgate)** — MCP production gateway in Go. API-key auth, per-key rate limiting, response caching, circuit breakers, and Prometheus metrics for MCP servers. MCP servers are easy to write; the production layer around them didn't exist, so I built it.
+
+## 🛠️ Stack
+
+- **Languages:** Go · Java · Python · TypeScript
+- **Backend:** Spring Boot · distributed systems · event-driven architecture
+- **AI infra:** MCP · LLM agents · evals
+- **Ops:** Prometheus · CI/CD · reliability engineering
+
+## 📫 Reach me
+
+- LinkedIn: https://www.linkedin.com/in/wen-sun-8b27aa67
+- Email: wen.sun1217@gmail.com
