@@ -12,7 +12,7 @@ Senior Software Engineer — backend systems & AI agent infrastructure. I build 
 
 MCP servers are easy to write; the production layer around them didn't exist, so I built it: API-key auth, per-key rate limiting, response caching, circuit breakers, Prometheus metrics, and stdio mode for Claude Desktop / IDEs.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunwen1983&repo=mcpgate)](https://github.com/sunwen1983/mcpgate)
+![Stars](https://img.shields.io/github/stars/sunwen1983/mcpgate?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/sunwen1983/mcpgate?style=flat-square) ![License](https://img.shields.io/github/license/sunwen1983/mcpgate?style=flat-square)
 
 - 🚀 v0.1.0 released Nov 2026 · 210 tests, CI green
 - 📚 Listed in [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) · [Glama](https://glama.ai/mcp/servers/sunwen1983/mcpgate) · [freemcp.space](https://freemcp.space/wensun1217/mcpgate) (verified ✅)
@@ -21,7 +21,7 @@ MCP servers are easy to write; the production layer around them didn't exist, so
 
 Building for the [Open Agentic Web Challenge](https://cognizant-agenticweb.devpost.com/) (Cognizant × MIT NANDA × Mozilla × AWS, $10k prizes, deadline Jan 11, 2027): agents from different websites discover, verify, and team up live in the browser — with mcpgate as the MCP tool backend.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sunwen1983&repo=agent-bazaar)](https://github.com/sunwen1983/agent-bazaar)
+![Stars](https://img.shields.io/github/stars/sunwen1983/agent-bazaar?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/sunwen1983/agent-bazaar?style=flat-square) ![License](https://img.shields.io/github/license/sunwen1983/agent-bazaar?style=flat-square)
 
 ### HeimdallOps — AI incident investigator
 
@@ -45,8 +45,7 @@ AI mock interviews with follow-ups, rubric scoring, and weak-point tracking. Bil
 
 ## 📊 GitHub stats
 
-![Wen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwen1983&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwen1983&layout=compact&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=sunwen1983&hide_border=true)
 
 ## 📫 Reach me
 
